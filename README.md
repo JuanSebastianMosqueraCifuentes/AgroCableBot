@@ -36,6 +36,7 @@ Ser un semillero líder en el campo del diseño mecatrónico, reconocido a nivel
 - Laura Tatiana Montes Castañeda 
 - María Camila Rodríguez Díaz
 
-## Contacto 
-user@gmail.com
-+57 3111111111
+## Contacto
+El Patron:
+2420191031@estudiantesunibague.edu.co
++57 3183929993
