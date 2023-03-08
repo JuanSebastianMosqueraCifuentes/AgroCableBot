@@ -1,5 +1,5 @@
 # IMACUNA - Semillero de investigación
-
+![IMACUNA](https://github.com/JuanSebastianMosqueraCifuentes/AgroCableBot/blob/main/logo.png)
 ## ¿Quiénes Somos?
 Somos el semillero de investigación  IMACUNA, un grupo de ingenieros entusiastas por impulsar la innovación y la modernización de la agricultura, en beneficio de productores y consumidores.
 “Somos el futuro agrícola”
